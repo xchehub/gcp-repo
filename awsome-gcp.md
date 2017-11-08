@@ -122,3 +122,6 @@ Samples for Google Cloud Machine Learning Engine https://cloud.google.com/ml-eng
 https://github.com/iammert/FastGCM
 Fast Google Cloud Messaging(GCM) integration for Android. Receive push notification easily.
 
+https://github.com/google/python-cloud-utils
+google/python-cloud-utils
+
