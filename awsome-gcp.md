@@ -137,3 +137,20 @@ Deep Learning setup on Google Cloud
 NOTE: If python not running on Anaconda,try :
     export PATH=~/anaconda2/bin:$PATH
 
+===
+About certification
+https://cloudplatform.googleblog.com/2016/10/transform-your-business-become-a-Google-Certified-Professional-Data-Engineer.html
+Transform your business; become a Google Certified Professional Data Engineer
+
+https://cloud.google.com/certification/guides/data-engineer/
+DATA ENGINEER
+Certification Exam Guide
+
+https://medium.com/@andytwigg/building-a-deep-learning-machine-a48ae696801f
+Building a deep learning machine
+
+https://www.quora.com/How-do-I-prepare-for-Googles-Data-engineer-certification-exam
+How do I prepare for Google's Data engineer certification exam?
+
+
+
