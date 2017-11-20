@@ -125,3 +125,15 @@ Fast Google Cloud Messaging(GCM) integration for Android. Receive push notificat
 https://github.com/google/python-cloud-utils
 google/python-cloud-utils
 
+
+https://github.com/eshvk/gcp-dl
+Deep Learning on GCP
+
+https://github.com/yu-iskw/google-cloud-deep-learning-kit
+Create a GPU instance on GCP with Jupyter + Keras + Nvidia Docker
+
+https://github.com/ayudhhande/google-cloud-dl
+Deep Learning setup on Google Cloud
+NOTE: If python not running on Anaconda,try :
+    export PATH=~/anaconda2/bin:$PATH
+
