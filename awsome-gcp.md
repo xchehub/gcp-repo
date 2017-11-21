@@ -152,5 +152,6 @@ Building a deep learning machine
 https://www.quora.com/How-do-I-prepare-for-Googles-Data-engineer-certification-exam
 How do I prepare for Google's Data engineer certification exam?
 
-
+https://www.youtube.com/watch?v=STyOXlAfg1M
+Google Cloud Platform Data Engineer Certification Review
 
