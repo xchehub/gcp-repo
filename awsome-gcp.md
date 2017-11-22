@@ -155,3 +155,10 @@ How do I prepare for Google's Data engineer certification exam?
 https://www.youtube.com/watch?v=STyOXlAfg1M
 Google Cloud Platform Data Engineer Certification Review
 ..
+https://www.youtube.com/watch?v=m2GqwP5K0vc
+Google Cloud Platform Fundamentals (CP100A) Certification Training | Simplilearn
+
+https://www.youtube.com/watch?v=q4WMilnnCsA
+CP100A: Google Cloud Platform Fundamentals (Day 2)
+
+
