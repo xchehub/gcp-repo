@@ -1,11 +1,14 @@
 # gcp resource collection
+
+
 ## gcp official
 - https://github.com/GoogleCloudPlatform
+- https://cloud.google.com/certification/?hl=zh-tw
 
-## dashboard
+## github
+### dashboard
 - [flow-dashboard](https://github.com/onejgordon/flow-dashboard)
     - A goal, task & habit tracker + personal dashboard to focus on what matters http://flowdash.co
-
 
 https://github.com/kubernetes-incubator/external-dns
 Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -42,7 +45,7 @@ https://github.com/nccgroup/G-Scout
 Google Cloud Platform Security Tool
 
 https://github.com/GoogleCloudPlatform/gifinator
-A sample application demonstrating Kubernetes, gRPC, Go and cute Gophers demoed at Google GCP Next 2017 https://www.youtube.com/watch?v=YiNt4kUnnIM
+A sample application demonstrating Kubernetes, gRPC, Go and cute Gophers demoed at Google GCP Next 2017 
 
 https://github.com/Agosto/gcp-iot-adapter
 MQTT to Google Cloud Pub/Sub adapter
@@ -137,11 +140,11 @@ Deep Learning setup on Google Cloud
 NOTE: If python not running on Anaconda,try :
     export PATH=~/anaconda2/bin:$PATH
 
-===
-# Google:
+
+## GoogleSearch:
 - google Data Engineer mock test
 - Google Cloud Certifications
-===
+
 About certification
 https://cloudplatform.googleblog.com/2016/10/transform-your-business-become-a-Google-Certified-Professional-Data-Engineer.html
 Transform your business; become a Google Certified Professional Data Engineer
@@ -150,13 +153,16 @@ https://cloud.google.com/certification/guides/data-engineer/
 DATA ENGINEER
 Certification Exam Guide
 
+https://cloud.google.com/certification/?hl=zh-tw
+
+
 https://medium.com/@andytwigg/building-a-deep-learning-machine-a48ae696801f
 Building a deep learning machine
 
 https://www.quora.com/How-do-I-prepare-for-Googles-Data-engineer-certification-exam
 How do I prepare for Google's Data engineer certification exam?
 
-# Youtube
+## Youtube
 
 https://www.youtube.com/watch?v=STyOXlAfg1M
 Google Cloud Platform Data Engineer Certification Review
