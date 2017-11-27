@@ -4,9 +4,30 @@
 ## gcp official
 - https://github.com/GoogleCloudPlatform
 - https://cloud.google.com/certification/?hl=zh-tw
+- [Transform your business; become a Google Certified Professional Data Engineer](https://cloudplatform.googleblog.com/2016/10/transform-your-business-become-a-Google-Certified-Professional-Data-Engineer.html)
+- [DATA ENGINEER Certification Exam Guide](https://cloud.google.com/certification/guides/data-engineer/)
+
+## GoogleSearch:
+- google Data Engineer mock test
+- Google Cloud Certifications
+
+## Youtube
+- [Google Cloud Platform Data Engineer Certification Review](https://www.youtube.com/watch?v=STyOXlAfg1M)
+- [Google Cloud Platform Fundamentals (CP100A) Certification Training | Simplilearn](https://www.youtube.com/watch?v=m2GqwP5K0vc)
+- [CP100A: Google Cloud Platform Fundamentals (Day 2)](https://www.youtube.com/watch?v=q4WMilnnCsA)
+- [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+- [Google Qualified Developer Certification: BigQuery](https://www.youtube.com/watch?v=ma8GXXzGaZE)
+
+# Quora
+-[How do I prepare for Google's Data engineer certification exam?](https://www.quora.com/How-do-I-prepare-for-Googles-Data-engineer-certification-exam)
+
+# web site
+- [CP100A: Google Cloud Platform Fundamentals](https://blog.m157q.tw/posts/2016/05/25/cp100a-google-cloud-platform-fundamentals/)
+
+https://medium.com/@andytwigg/building-a-deep-learning-machine-a48ae696801f
+Building a deep learning machine
 
 ## github
-### dashboard
 - [flow-dashboard](https://github.com/onejgordon/flow-dashboard)
     - A goal, task & habit tracker + personal dashboard to focus on what matters http://flowdash.co
 
@@ -128,7 +149,6 @@ Fast Google Cloud Messaging(GCM) integration for Android. Receive push notificat
 https://github.com/google/python-cloud-utils
 google/python-cloud-utils
 
-
 https://github.com/eshvk/gcp-dl
 Deep Learning on GCP
 
@@ -139,45 +159,3 @@ https://github.com/ayudhhande/google-cloud-dl
 Deep Learning setup on Google Cloud
 NOTE: If python not running on Anaconda,try :
     export PATH=~/anaconda2/bin:$PATH
-
-
-## GoogleSearch:
-- google Data Engineer mock test
-- Google Cloud Certifications
-
-About certification
-https://cloudplatform.googleblog.com/2016/10/transform-your-business-become-a-Google-Certified-Professional-Data-Engineer.html
-Transform your business; become a Google Certified Professional Data Engineer
-
-https://cloud.google.com/certification/guides/data-engineer/
-DATA ENGINEER
-Certification Exam Guide
-
-https://cloud.google.com/certification/?hl=zh-tw
-
-
-https://medium.com/@andytwigg/building-a-deep-learning-machine-a48ae696801f
-Building a deep learning machine
-
-https://www.quora.com/How-do-I-prepare-for-Googles-Data-engineer-certification-exam
-How do I prepare for Google's Data engineer certification exam?
-
-## Youtube
-
-https://www.youtube.com/watch?v=STyOXlAfg1M
-Google Cloud Platform Data Engineer Certification Review
-..
-https://www.youtube.com/watch?v=m2GqwP5K0vc
-Google Cloud Platform Fundamentals (CP100A) Certification Training | Simplilearn
-
-https://www.youtube.com/watch?v=q4WMilnnCsA
-CP100A: Google Cloud Platform Fundamentals (Day 2)
-
-https://www.coursera.org/specializations/gcp-data-machine-learning
-Data Engineering on Google Cloud Platform Specialization
-
-https://www.youtube.com/watch?v=ma8GXXzGaZE
-Google Qualified Developer Certification: BigQuery
-
-
-
