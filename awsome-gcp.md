@@ -138,6 +138,10 @@ NOTE: If python not running on Anaconda,try :
     export PATH=~/anaconda2/bin:$PATH
 
 ===
+# Google:
+- google Data Engineer mock test
+- Google Cloud Certifications
+===
 About certification
 https://cloudplatform.googleblog.com/2016/10/transform-your-business-become-a-Google-Certified-Professional-Data-Engineer.html
 Transform your business; become a Google Certified Professional Data Engineer
@@ -152,6 +156,8 @@ Building a deep learning machine
 https://www.quora.com/How-do-I-prepare-for-Googles-Data-engineer-certification-exam
 How do I prepare for Google's Data engineer certification exam?
 
+# Youtube
+
 https://www.youtube.com/watch?v=STyOXlAfg1M
 Google Cloud Platform Data Engineer Certification Review
 ..
@@ -160,5 +166,12 @@ Google Cloud Platform Fundamentals (CP100A) Certification Training | Simplilearn
 
 https://www.youtube.com/watch?v=q4WMilnnCsA
 CP100A: Google Cloud Platform Fundamentals (Day 2)
+
+https://www.coursera.org/specializations/gcp-data-machine-learning
+Data Engineering on Google Cloud Platform Specialization
+
+https://www.youtube.com/watch?v=ma8GXXzGaZE
+Google Qualified Developer Certification: BigQuery
+
 
 
